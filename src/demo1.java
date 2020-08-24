@@ -1,5 +1,5 @@
 public class demo1 {
     public static void main(String[] args) {
-        System.out.println("demo1第三次修改!");
+        System.out.println("demo1第三次修改");
     }
 }
